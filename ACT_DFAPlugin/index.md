@@ -2,5 +2,6 @@
 
 ## DFA Overlays
 
-- [dfa.html](dfa.html)
-- [dfa_minimal_skin.html](dfa_minimal_skin.html)
+- [dfa.html](https://qitana.github.io/ACT_DFAPlugin/dfa.html)
+- [dfa_minimal.html](dfa_minimal.html)
+- [dfa_minimal_skin.html](https://qitana.github.io/ACT_DFAPlugin/dfa_minimal_skin.html)
